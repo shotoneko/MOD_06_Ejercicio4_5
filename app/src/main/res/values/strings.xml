@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitNews</string>
+    <string name="home_screen_title">Articles List</string>
+    <string name="detail_screen_title">News Detail</string>
+</resources>
